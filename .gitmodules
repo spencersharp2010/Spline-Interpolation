@@ -3,4 +3,4 @@
 	url = https://github.com/pybind/pybind11.git
 [submodule "external/linalg"]
 	path = external/linalg
-	url = https://gitlab.lrz.de/cie/teaching/cie1/linalg
+	url = https://gitlab.lrz.de/cie_ss2019/cie2/linalg.git
