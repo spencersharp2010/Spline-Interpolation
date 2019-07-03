@@ -7,7 +7,7 @@ namespace cie
 namespace splinekernel
 {
 
-/*
+
 
 TEST_CASE( "centripetalParameterPositions_test" )
 {
@@ -232,7 +232,7 @@ TEST_CASE("interpolateWithBSplineCurve_test")
     CHECK( is_sorted( knotVector.begin( ), knotVector.end( ) ) );
 }
 
-*/
+
 
 } // namespace splinekernel
 } // namespace cie
